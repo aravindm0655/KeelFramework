@@ -1,25 +1,7 @@
 import pytest
 
 from keel_API2 import (
-    loginRequest,
-    checkOrgname,
-    domainRequest,
-    logoRequest,
-    countryId,
-    addOrganization,
-    getAppkeyRequest,
-    listdb,
-    desRequest,
-    addDes, 
-    listRoles,
-    addRole, 
-    emailTofSES,
-    createPackage,
-    getPackage,
-    getPakagebyID,
-    createFeatureP,
-    getFeaturesforP,
-    getFeaturesforPbyID
+*
 )
 
 @pytest.fixture()
